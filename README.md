@@ -1,5 +1,3 @@
-Selam Rowez, sağlam bir clicker yazmışsın. Tasarım modern ve işlevsel duruyor. Özellikle pynput ve customtkinter kombinasyonu ile hack tool havasını vermişsin. İstediğin gibi kısa, öz ve profesyonel bir README hazırladım.
-
 🖱️ Rowez Elite Auto Clicker PRO v3.0
 Gelişmiş, modern arayüze sahip ve anti-detect özellikli üst düzey bir otomatik tıklama yazılımı.
 
